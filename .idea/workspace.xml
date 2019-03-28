@@ -7,80 +7,155 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="103ab7b3-5738-4486-bd42-664827c5471e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars___D__Projects_Learn_spydroid_ipcamera_app_libs_acra_4_4_0_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars___D__Projects_Learn_spydroid_ipcamera_app_libs_sc_light_jdk15on_1_47_0_2_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars___D__Projects_Learn_spydroid_ipcamera_app_libs_scpkix_jdk15on_1_47_0_2_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars___D__Projects_Learn_spydroid_ipcamera_app_libs_scprov_jdk15on_1_47_0_2_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_android_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_mediarouter_v7_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_palette_v7_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_25_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_25_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_impl_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_appinvite_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_awareness_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_cast_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_cast_framework_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_clearcut_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_drive_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_fitness_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_games_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_gcm_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_identity_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_iid_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_instantapps_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_nearby_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_panorama_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_plus_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tagmanager_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tagmanager_api_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tagmanager_v4_impl_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_vision_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_vision_common_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_wallet_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_wearable_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_appindexing_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_config_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_crash_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_dynamic_links_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_11_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_http_legacy_android_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/credits.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/fonts/bangers.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/fonts/bangers.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/fonts/sunshiney.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/fonts/sunshiney.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/blue-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/install.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/lamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/quote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/red-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/speaker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/images/spydroid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/js/ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/js/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/js/less-1.2.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/js/translations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/js/ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/#vlc.less#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/accordion.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/fonts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/ie.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/less/vlc.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/www/tests/test1.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-27-17-34-58-632.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-27-17-37-25-929.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-27-17-39-35-243.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-27-17-52-29-664.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-27-17-59-12-401.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/android/support/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/google/android/gms/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/proguard-files/proguard-android-optimize.txt-2.3.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/proguard-files/proguard-android.txt-2.3.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/GoogleAdMobAdsSdk-6.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/acra-4.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/android-support-v4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/gcm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/sc-light-jdk15on-1.47.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/scpkix-jdk15on-1.47.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/scprov-jdk15on-1.47.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/anim/pulse.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/quit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/quit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/quit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/preview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout-sw600dp/preview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout-sw600dp/spydroid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout-sw600dp/tablet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/about.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/preview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/spydroid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/tablet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/menu/menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/animals_cat.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/animals_dog.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/funny_fart.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/funny_fart2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/funny_snoring.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/scary_breath.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/scary_evil_laughter.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/scary_horror.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/scary_insane_laughter.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/scary_long_growl.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/scary_thunder.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/war_explosion.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw/war_gunshot.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-de/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-fr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-ru/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/xml/preferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/http/ModAssetServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/http/ModInternationalization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/http/ModSSL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/http/TinyHttpServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/SpydroidApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/Utilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/api/CustomHttpServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/api/CustomRtspServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/api/RequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/ui/AboutFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/ui/HandsetFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/ui/OptionsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/ui/PreviewFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/ui/SpydroidActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/spydroid/ui/TabletFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/MediaStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/Session.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/SessionBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/Stream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/audio/AACStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/audio/AMRNBStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/audio/AudioQuality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/audio/AudioStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/exceptions/CameraInUseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/exceptions/ConfNotSupportedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/exceptions/InvalidSurfaceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/exceptions/StorageUnavailableException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/gl/SurfaceManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/gl/SurfaceView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/gl/TextureManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/hw/CodecManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/hw/EncoderDebugger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/hw/NV21Convertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/mp4/MP4Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/mp4/MP4Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtcp/SenderReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtp/AACADTSPacketizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtp/AACLATMPacketizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtp/AMRNBPacketizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtp/AbstractPacketizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtp/H263Packetizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtp/H264Packetizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtp/MediaCodecInputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtp/RtpSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtsp/RtspClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtsp/RtspServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/rtsp/UriParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/video/CodecManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/video/H263Stream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/video/H264Stream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/video/VideoQuality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/majorkernelpanic/streaming/video/VideoStream.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +184,7 @@
         <counts>
           <entry key="bat" value="2" />
           <entry key="cfg" value="2" />
+          <entry key="class" value="1" />
           <entry key="gradle" value="5" />
           <entry key="gradlew" value="2" />
           <entry key="iml" value="2" />
@@ -121,6 +197,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="Groovy" value="5" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="JAVA" value="10" />
@@ -149,19 +226,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -170,7 +238,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/streaming/rtp/H264Packetizer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="71" column="47" lean-forward="true" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
+              <caret line="71" column="47" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -179,7 +247,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+              <caret line="31" column="66" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
             </state>
           </provider>
           <provider editor-type-id="android-manifest" />
@@ -215,8 +283,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/streaming/rtp/RtpSocket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-783">
-              <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+            <state relative-caret-position="300">
+              <caret line="251" column="47" lean-forward="true" selection-start-line="251" selection-start-column="47" selection-end-line="251" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -584,21 +652,21 @@
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/streaming/rtp/H264Packetizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="71" column="47" lean-forward="true" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
+          <caret line="71" column="47" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+          <caret line="31" column="66" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
         </state>
       </provider>
       <provider editor-type-id="android-manifest" />
@@ -638,10 +706,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/ProgramFiles/Android/sdk/platforms/android-25/android.jar!/java/net/MulticastSocket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/streaming/rtp/RtpSocket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-783">
-          <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        <state relative-caret-position="300">
+          <caret line="251" column="47" lean-forward="true" selection-start-line="251" selection-start-column="47" selection-end-line="251" selection-end-column="47" />
         </state>
       </provider>
     </entry>
