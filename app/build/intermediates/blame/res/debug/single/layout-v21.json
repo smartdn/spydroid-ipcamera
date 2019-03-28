@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9574599e3786cbaac1a531d881b8c7ac71fcc1dd\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8b56da4e8062a8f36ef1754b961fc194668661d5\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8b56da4e8062a8f36ef1754b961fc194668661d5\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7ced1f89d48c6ad19c26ba58b2f1521a1cab13b9\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7ced1f89d48c6ad19c26ba58b2f1521a1cab13b9\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\841b64f0da450285d4128396bc9c2cab7a9ff2ee\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Learn\\spydroid-ipcamera\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8b56da4e8062a8f36ef1754b961fc194668661d5\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]
